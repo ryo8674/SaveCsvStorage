@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SaveCsvStorage</string>
+    <string name="title">内部・外部ファイル切り替え</string>
+    <string name="internal_storage">内部ストレージ</string>
+    <string name="external_storage">外部ストレージ</string>
+    <string name="create_data">CREATE DATA</string>
+    <string name="create_list">CREATE LIST</string>
+</resources>
